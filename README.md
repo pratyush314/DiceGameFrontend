@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎲 Dice Game Frontend  
 
-## Getting Started
+A **React/Next.js** frontend for the **provably fair** dice game.  
+This UI provides a smooth, dark-themed experience for placing bets and rolling dice.  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Features  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+✅ **Dark-Themed Clean UI**  
+✅ **Dice Line (Visual Representation)**  
+✅ **Input Field for Bet Amount**  
+✅ **Displays Current Balance (Starts with $1000 Credits)**  
+✅ **"Roll Dice" Button to Trigger Backend Logic**  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 UI Preview  
+![image](https://github.com/user-attachments/assets/3f2dd3cd-e609-4761-8bdf-1e448d66399d)
+  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Setup & Installation  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### **1️⃣ Clone the Repository**  
+```sh
+git clone https://github.com/pratyush314/DiceGameFrontend.git
+cd DiceGameFrontend
